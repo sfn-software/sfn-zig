@@ -1,6 +1,6 @@
 # sfn-zig
 
-Implementation in Zig language (incomplete, server only). Smallest in the world: requires just 4 Kb of RAM (+buffer).
+L1 implementation in Zig language (incomplete, server only). Smallest in the world: requires just 4 Kb of RAM (+buffer).
 
 ![contrib/screenshot.png](contrib/screenshot.png)
 
